@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ehidalgo1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, Soy Eugenio. Desarrollador de software con +6 años de experiencia
+- Tengo conocimientos en lenguajes como Java, Javascript, Node y Python entre otros.
+  También frameworks como Angular, React, Astro y Express.
+
+- Te invito a que heches un vistaso a mis proyectos, los cuales llevan mucho tiempo, la verdad no se han actualizado hace mucho
+  pero ya me encuentro trabajando en eso 😊.
 
 <!---
 ehidalgo1/ehidalgo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
