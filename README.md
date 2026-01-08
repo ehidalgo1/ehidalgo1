@@ -2,8 +2,7 @@
 - Tengo conocimientos en lenguajes como Java, Javascript, Node y Python entre otros.
   También frameworks/librerias como Angular, React, Astro.
 
-- Te invito a que heches un vistaso a mis proyectos, los cuales llevan mucho tiempo, la verdad no se han actualizado hace mucho
-  pero ya me encuentro trabajando en eso 😊.
+- Te invito a revisar mis proyectos, algunos con mucho tiempo, los que se irán actualizando más adelante 😊.
 
 <!---
 ehidalgo1/ehidalgo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
